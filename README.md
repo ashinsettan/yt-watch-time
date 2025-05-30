@@ -32,7 +32,7 @@ Recommended specs:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/yt-watcher.git
+https://github.com/ashinsettan/yt-watch-time.git
 cd yt-watcher
 
 # Make scripts executable
