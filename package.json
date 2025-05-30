@@ -1,0 +1,16 @@
+{
+  "name": "youtube-watcher",
+  "version": "1.0.0",
+  "description": "Multi-instance YouTube video watcher with proxies and logs",
+  "main": "watcher.js",
+  "scripts": {
+    "start": "node watcher.js",
+    "stop": "node stop.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.7.3",
+    "inquirer": "^9.2.5",
+    "chalk": "^5.3.0"
+  }
+}
+
